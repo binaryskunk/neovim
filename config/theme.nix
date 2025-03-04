@@ -9,4 +9,6 @@
       };
     };
   };
+
+  globals.neovide_font = "Comic Code:12";
 }
