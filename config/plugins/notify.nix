@@ -1,3 +1,0 @@
-{
-  plugins.notify.enable = true;
-}
